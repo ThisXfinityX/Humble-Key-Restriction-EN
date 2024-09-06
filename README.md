@@ -11,6 +11,4 @@ give offical creator star!
 
 install [Tampermonkey](https://www.tampermonkey.net/) or etc
 
-[Check Here](https://github.com/ThisXfinityX/Humble-Key-Restriction-EN/raw/main/user.js)
-
 ---
