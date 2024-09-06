@@ -1,12 +1,10 @@
 // ==UserScript==
 // @name         Humble Key Restriction-EN
 // @description  Display Humble Bundle region restriction infomation on Humble's download page
-// @author       Cloud 
-// @namespace    https://github.com/umaim/Humble-Key-Restriction
-// @supportURL   https://github.com/umaim/Humble-Key-Restriction/issues
-// @version      1.4.4
-// @updateURL    https://github.com/umaim/Humble-Key-Restriction/raw/master/HKR.meta.js
-// @downloadURL  https://github.com/umaim/Humble-Key-Restriction/raw/master/HKR.user.js
+// @author       wang940824 
+// @namespace    https://github.com/wang940824/Humble-Key-Restriction-EN
+// @supportURL   https://github.com/wang940824/Humble-Key-Restriction-EN/issues
+// @version      1.0.0
 // @icon         https://humblebundle-a.akamaihd.net/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @include      https://www.humblebundle.com/downloads*
 // @grant        GM_xmlhttpRequest
