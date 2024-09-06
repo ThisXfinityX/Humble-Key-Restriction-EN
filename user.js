@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Humble Key Restriction
+// @name         Humble Key Restriction-EN
 // @description  Display Humble Bundle region restriction infomation on Humble's download page
-// @author       Cloud
+// @author       Cloud 
 // @namespace    https://github.com/umaim/Humble-Key-Restriction
 // @supportURL   https://github.com/umaim/Humble-Key-Restriction/issues
 // @version      1.4.4
