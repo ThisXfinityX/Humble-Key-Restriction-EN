@@ -5,6 +5,7 @@
 // @namespace    https://github.com/ThisXfinityX/Humble-Key-Restriction-EN
 // @supportURL   https://github.com/ThisXfinityX/Humble-Key-Restriction-EN/issues
 // @version      1.0.0
+// @downloadURL  https://github.com/ThisXfinityX/Humble-Key-Restriction-EN/raw/main/user.js
 // @icon         https://humblebundle-a.akamaihd.net/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @include      https://www.humblebundle.com/downloads*
 // @grant        GM_xmlhttpRequest
